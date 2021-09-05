@@ -1,7 +1,7 @@
 # **R**eact Automation <em>[**I**nstallation]
 ## Pre-requisites :
 
-- PhpStorm (Version 2018.1.4 or Above).
+- Visual Studio Code.
 - Node JS ( Version ^12.16. NPM version ^6.14 ).
 - Read Access of Repo
 - Git
