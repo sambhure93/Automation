@@ -31,7 +31,9 @@ exports.config = {
 
     },
     include: require('./Interfaces/CServicePagePath.js'),
-    name: 'trunk',
+    bootstrap: null,
+    mocha: require('./Libraries/CExecutionReporter.js'),
+    name: 'Predict',
     plugins: {
         allure: {
             enabled: true
